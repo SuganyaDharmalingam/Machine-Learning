@@ -1,1 +1,1 @@
-
+This project explores four machine learning models for weather forecast prediction namely Decision Tree Regression, Linear Regression, Support Vector Machine & Random Forest Regression. The Dataset used shows the temperature, air pressure, humidity, etc., for Cologne over the past one year. The results of these models are analyzed. Temperature of Cologne for the next few days has been predicted. 
